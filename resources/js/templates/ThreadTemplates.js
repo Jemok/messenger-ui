@@ -73,7 +73,7 @@ window.ThreadTemplates = (function () {
                 '</div>'
         },
         empty_base : function(){
-            return ''
+            return '1'
         },
         send_msg_btn : function(emoji){
             if(emoji){
