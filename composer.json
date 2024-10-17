@@ -9,13 +9,20 @@
             "homepage": "https://tippindev.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Jemok/messenger.git"
+        }
+
+    ],
     "homepage": "https://github.com/rtippin/messenger-ui",
     "keywords": [
         "Laravel",
         "Messenger"
     ],
     "require": {
-        "rtippin/messenger": "^1.19"
+        "rtippin/messenger": "dev-my_edits"
     },
     "autoload": {
         "psr-4": {
