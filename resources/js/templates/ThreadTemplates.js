@@ -1382,7 +1382,7 @@ window.ThreadTemplates = (function () {
                 '                            </div>\n' +
                 '                        </form>\n' +
                 '                    </div>\n' +
-                '                    <input class="NS" multiple type="file" name="doc_file" id="doc_file" accept="image/*" capture>\n' +
+                '                    <input class="NS" multiple type="file" name="doc_file" id="doc_file">\n' +
                 '                    <input class="NS" id="thread_avatar_image_file" type="file" name="group_avatar_image_file" accept="image/*">\n' +
                 '                </div>\n' +
                 '            </div>\n' +
