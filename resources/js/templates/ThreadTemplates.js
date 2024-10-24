@@ -1373,7 +1373,7 @@ window.ThreadTemplates = (function () {
                 '                            </div>\n' +
                 '                            <div class="col-12 my-1">\n' +
                 '                                <div class="float-left">\n' +
-                '                                    <button style="font-size: 18px; line-height: 0;" id="file_upload_btn" data-toggle="tooltip" title="Upload File(s)" data-placement="top" class="p-1 btn btn-sm btn-light" onclick="$(\'#doc_file\').trigger(\'click\');" type="button"><i class="fas fa-plus-circle"></i></button>\n' +
+                '                                    <button style="font-size: 18px; line-height: 0;" id="file_upload_btn" data-toggle="tooltip" title="Upload File1(s)" data-placement="top" class="p-1 btn btn-sm btn-light" onclick="$(\'#doc_file\').trigger(\'click\');" type="button"><i class="fas fa-plus-circle"></i></button>\n' +
                 '                                    <button style="font-size: 18px; line-height: 0;" id="record_audio_message_btn" data-toggle="tooltip" title="Record Audio Message" data-placement="top" class="p-1 mx-1 btn btn-sm btn-light" type="button"><i class="fas fa-microphone"></i></button>\n' +
                 '                                </div>\n' +
                 '                                <div class="float-right">\n' +
